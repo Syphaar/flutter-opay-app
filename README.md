@@ -31,7 +31,7 @@ The goal of this project is to demonstrate **real world Flutter UI skills**, pro
 ### Mobile View
 
 <p align="center">
-  <img src="screenshots/mobile_home.png" width="350" alt="Mobile View" />
+  <img src="https://github.com/Syphaar/flutter-opay-app/blob/cb645f00b193c1ea65a44125912f3db3571a8fda/Screenshot%20(581).png" width="350" alt="Mobile View" />
 </p>
 
 *Mobile layout showing a single-column fintech dashboard optimized for touch interaction.*
