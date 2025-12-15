@@ -39,7 +39,7 @@ The goal of this project is to demonstrate **real world Flutter UI skills**, pro
 ### Tablet View
 
 <p align="center">
-  <img src="screenshots/tablet_home.png" width="600" alt="Tablet View" />
+  <img src="https://github.com/Syphaar/flutter-opay-app/blob/b0a5575ff5a8d0d6681d065f81433db5d14e6011/Screenshot%20(580).png" width="600" alt="Tablet View" />
 </p>
 
 *Tablet layout with improved spacing and better content visibility.*
