@@ -47,7 +47,7 @@ The goal of this project is to demonstrate **real world Flutter UI skills**, pro
 ### Desktop / Web View
 
 <p align="center">
-  <img src="screenshots/desktop_home.png" width="800" alt="Desktop View" />
+  <img src="https://github.com/Syphaar/flutter-opay-app/blob/622f1a89c5d6ee796a57faf6db91286c5ceee243/Screenshot%20(579).png" width="800" alt="Desktop View" />
 </p>
 
 *Desktop and web layout centered on large screens for a clean, professional look.*
